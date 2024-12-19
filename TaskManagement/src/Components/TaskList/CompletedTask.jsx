@@ -15,6 +15,8 @@ const CompletedTask = () => {
         <span className='text-green-500 font-semibold'>Completed</span>
       </div>
     </div>
+
+
   );
 };
 
